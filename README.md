@@ -6,17 +6,17 @@ This repository contains the code for a machine learning-based Loan Prediction s
 File Structure
 --------------
 
-- Folder: `part1`
+- Part I
   - `part1.ipynb`: Jupyter Notebook containing code for:
     - Naive Bayes classifier
     - Ensemble model using VotingClassifier
-- Folder: `part2`
+- Part II
   - `part2.ipynb`: Jupyter Notebook containing code for:
     - Gradient Boosting Classifier
     - KNN Classifier
     - Logistic Regression Classifier
     - Random Forest Classifier
-- Folder: `part3`
+- Part III
   - `part3.ipynb`: Jupyter Notebook containing code for:
     - Random Forest Classifier with cross-validation
     - Deep Learning model using TensorFlow
